@@ -1,4 +1,4 @@
-const CACHE_NAME = "pool-cost-calculator-v2";
+const CACHE_NAME = "pool-cost-calculator-v3";
 const APP_FILES = [
   "./",
   "./index.html",
